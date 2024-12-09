@@ -1,0 +1,11 @@
+MIT 6.823 - https://csg.csail.mit.edu/6.823S21/lecnotes.html
+
+CMU - https://www.youtube.com/playlist?list=PL5PHm2jkkXmiSGtFXE8IKRQyIZ1wNFknx
+
+Computer Architecture (Machine Structures) - https://cs61c.org/fa24/
+
+https://github.com/arm-university
+
+https://github.com/riscv/learn?tab=readme-ov-file#-table-of-contents
+
+https://safari.ethz.ch/architecture/fall2021/doku.php?id=readings
